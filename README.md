@@ -21,7 +21,7 @@ Os exercícios foram desenvolvidos durante o **3º período do curso de Engenhar
 ![Atividades Parte 2](screenshots/screenshot_atividade_3.png)
 ---
 
-## 🛠 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - Java
 - Lógica de programação
