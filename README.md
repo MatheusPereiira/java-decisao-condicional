@@ -36,6 +36,8 @@ Praticar a construção de algoritmos utilizando **estruturas de decisão**, fun
 ---
 
 ## Autor
+**Matheus Pereira** <br> 
+- Estudante de Engenharia de Software Faculdade de Nova Serrana <br>
+- Apaixonado por desenvolvimento desktop <br>
+- GitHub: https://github.com/MatheusPereiira
 
-**Matheus Pereira**  
-Estudante de Engenharia de Software
