@@ -1,4 +1,4 @@
-# ☕ Decisão Condicional em Java
+# Decisão Condicional em Java ☕
 
 Repositório contendo exercícios de **estruturas de decisão em Java**, abordando o uso de `if`, `else` e `switch`.
 
